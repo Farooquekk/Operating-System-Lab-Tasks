@@ -1,0 +1,5 @@
+ Run this command in cms for task 2
+
+icacls "C:\Users\Farooque\Desktop\OS LAB 6 TASK 1.bat" /deny *S-1-1-0:(F)
+
+Note : change your username 
